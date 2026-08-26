@@ -1,0 +1,4 @@
+interface:
+  display_name: "Realistic ID Photo Prompt"
+  short_description: "Photorealistic, unretouched Chinese ID-style portrait prompt"
+  default_prompt: "Use $realistic-id-photo to build a realistic ID photo prompt from this subject: "

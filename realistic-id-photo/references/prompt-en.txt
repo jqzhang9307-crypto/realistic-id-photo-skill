@@ -1,0 +1,9 @@
+{ }，white background ID photo, natural and relaxed expression, not a posed shot, not a portrait/fine-art photo session, not an influencer selfie. Face not completely symmetrical, nose bridge slightly not straight, nostrils slightly different in size, fine lines at the corners of the mouth, chin slightly receded, face not a standard oval shape.
+
+Real skin, not airbrushed, slight redness around the nostrils, fine visible pores on the cheeks, minor acne marks in places, faint fine lines and mild dark circles under the eyes, oily sheen on the T-zone, slight reflection on the forehead, small blemishes on the chin, uneven skin tone, fine vellus hair on the cheeks, real surface texture with natural unevenness, not a smooth plastic surface.
+
+Lighting not sophisticated, no added lighting, no soft focus.
+
+Phone-photo quality, slight compression artifacts, slight noise, slight blur, slight hand shake, slight motion blur, slight chromatic aberration at the lens edges, colors not very saturated, white balance slightly warm, low contrast, ordinary everyday photo, real camera photo, not retouched, no beauty filter, not commercial photography, not a high-end studio shoot.
+
+Negative prompt: AI face, AI-generated look, cartoon, anime, illustration, painting, 3D render, CG, plastic skin, rubber face, ceramic skin, glass eyes, vacant gaze, over-airbrushed, flawless skin, smooth skin, perfect facial features, uniform features, influencer face, beauty filter, liquify/retouch traces, over-sharpened, ultra-sharp eyes, overexposed highlights, pitch-black shadows, fake pores, fake texture, retouched portrait photos, magazine cover, perfect symmetry, artistic beautification, oil painting, 2D/anime, deformed facial features, deformed fingers, over-clean, over-smooth, commercial lighting, high-end studio lighting, soft focus, creamy skin, cold pale skin, perfect face shape, elaborate makeup
